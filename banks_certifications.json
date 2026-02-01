@@ -1,0 +1,125 @@
+{
+  "schema_version": "1.0",
+  "owner": {
+    "name": "Sawandi Kirby",
+    "github": "visualkirby"
+  },
+  "repo": {
+    "type": "certifications",
+    "pdf_root": "certificates"
+  },
+  "certifications": [
+    {
+      "cert_id": "coursera_google_data_analytics_xn9rsclf_q7hs",
+      "title": "Google Data Analytics",
+      "credential_type": "professional_certificate",
+      "issuer": "Google",
+      "platform": "Coursera",
+      "issue_date": "2023-12-28",
+      "expiry_date": null,
+      "verification_url": "https://coursera.org/verify/professional-cert/XN9RSCLFQ7HS",
+      "pdf_path": "certificates/Google_Data_Analytics_Professional_Certificate.pdf",
+      "source_files": [
+        "Coursera XN9RSCLFQ7HS.pdf"
+      ],
+      "tags": [
+        "data_analytics",
+        "spreadsheets",
+        "sql",
+        "tableau",
+        "r",
+        "data_cleaning",
+        "data_visualization"
+      ]
+    },
+    {
+      "cert_id": "coursera_rutgers_supply_chain_mgmt_7az8if5epc33",
+      "title": "Supply Chain Management",
+      "credential_type": "specialization",
+      "issuer": "Rutgers University",
+      "platform": "Coursera",
+      "issue_date": "2025-03-16",
+      "expiry_date": null,
+      "verification_url": "https://coursera.org/verify/specialization/7AZ8IF5EPC33",
+      "pdf_path": "certificates/Rutgers_Supply_Chain_Management_Specialization.pdf",
+      "source_files": [
+        "RU_Supply_Chain_Managment_Certificate (1).pdf"
+      ],
+      "tags": [
+        "supply_chain",
+        "logistics",
+        "operations",
+        "planning",
+        "sourcing",
+        "strategy"
+      ]
+    },
+    {
+      "cert_id": "coursera_uci_intro_to_business_26p3grjurkpb",
+      "title": "Introduction to Business",
+      "credential_type": "specialization",
+      "issuer": "UCI Division of Continuing Education",
+      "platform": "Coursera",
+      "issue_date": "2024-11-01",
+      "expiry_date": null,
+      "verification_url": "https://coursera.org/verify/specialization/26P3GRJURKPB",
+      "pdf_path": "certificates/Introduction_to_Business_Specialization.pdf",
+      "source_files": [
+        "Coursera 26P3GRJURKPB.pdf"
+      ],
+      "tags": [
+        "business_operations",
+        "management",
+        "strategic_planning",
+        "digital_marketing",
+        "finance"
+      ]
+    },
+    {
+      "cert_id": "coursera_career_success_y94b8whngfwc",
+      "title": "Career Success",
+      "credential_type": "specialization",
+      "issuer": "Coursera",
+      "platform": "Coursera",
+      "issue_date": "2024-12-24",
+      "expiry_date": null,
+      "verification_url": "https://coursera.org/verify/specialization/Y94B8WHNGFWC",
+      "pdf_path": "certificates/Career_Success_Specialization.pdf",
+      "source_files": [
+        "Coursera Y94B8WHNGFWC.pdf"
+      ],
+      "tags": [
+        "project_management",
+        "time_management",
+        "finance",
+        "communication",
+        "business_writing",
+        "negotiation",
+        "problem_solving",
+        "leadership"
+      ]
+    },
+    {
+      "cert_id": "nff_forklift_operator_nff-1725382714-2368-96083",
+      "title": "Forklift Operator Certified",
+      "credential_type": "certification",
+      "issuer": "National Forklift Foundation",
+      "platform": "National Forklift Foundation",
+      "issue_date": "2024-09-03",
+      "expiry_date": "2027-09-03",
+      "verification_url": null,
+      "credential_id": "NFF-1725382714-2368-96083",
+      "pdf_path": "certificates/Forklift_Operator_Certified_NFF.pdf",
+      "source_files": [
+        "skirby323-Forklift-Operator-Certification-Forklift-Operator-Official-Certification-National-Forklift-Foundation.pdf"
+      ],
+      "tags": [
+        "forklift",
+        "osha",
+        "warehouse",
+        "safety",
+        "operations"
+      ]
+    }
+  ]
+}
