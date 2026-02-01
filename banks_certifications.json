@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.2",
   "owner": {
     "name": "Sawandi Kirby",
     "github": "visualkirby"
@@ -8,20 +8,43 @@
     "type": "certifications",
     "pdf_root": "certificates"
   },
+  "defaults": {
+    "status": "active",
+    "is_active": "TRUE",
+    "show_on_resume": "TRUE",
+    "priority": 50,
+    "relevance": 0.75,
+    "role_scope": "base|operations|supply_chain|customer_service|finance",
+    "source": "cert_manifest"
+  },
   "certifications": [
     {
       "cert_id": "coursera_google_data_analytics_xn9rsclf_q7hs",
-      "title": "Google Data Analytics",
-      "credential_type": "professional_certificate",
+
+      "status": "active",
+      "name": "Google Data Analytics",
+      "display_name": "Google Data Analytics",
       "issuer": "Google",
-      "platform": "Coursera",
       "issue_date": "2023-12-28",
-      "expiry_date": null,
+      "expiration_date": "",
+      "certification_number": "",
+      "is_active": "TRUE",
+      "show_on_resume": "TRUE",
+      "priority": 10,
+      "role_scope": "base|operations|supply_chain|customer_service|finance",
+      "summary": "Professional certificate covering data cleaning, analysis, visualization, and reporting with spreadsheets, SQL, and BI tools.",
+      "relevance": 0.95,
       "verification_url": "https://coursera.org/verify/professional-cert/XN9RSCLFQ7HS",
+
+      "source": "cert_manifest",
+      "run_id": "",
+      "updated_at": "",
+
+      "credential_type": "professional_certificate",
+      "platform": "Coursera",
+      "expiry_date": null,
       "pdf_path": "certificates/Google_Data_Analytics_Professional_Certificate.pdf",
-      "source_files": [
-        "Coursera XN9RSCLFQ7HS.pdf"
-      ],
+      "source_files": ["Coursera XN9RSCLFQ7HS.pdf"],
       "tags": [
         "data_analytics",
         "spreadsheets",
@@ -30,95 +53,166 @@
         "r",
         "data_cleaning",
         "data_visualization"
+      ],
+      "skills": [
+        { "skill_label": "SQL", "skill_keyword": "sql", "role_scope": "base|operations|supply_chain|customer_service|finance" },
+        { "skill_label": "Spreadsheets", "skill_keyword": "spreadsheets", "role_scope": "base|operations|supply_chain|customer_service|finance" },
+        { "skill_label": "Data Cleaning", "skill_keyword": "data_cleaning", "role_scope": "base|operations|supply_chain|customer_service|finance" },
+        { "skill_label": "Data Visualization", "skill_keyword": "data_visualization", "role_scope": "base|operations|supply_chain|customer_service|finance" },
+        { "skill_label": "Tableau", "skill_keyword": "tableau", "role_scope": "base|operations|supply_chain|customer_service|finance" },
+        { "skill_label": "R", "skill_keyword": "r", "role_scope": "base|operations|supply_chain|customer_service|finance" }
       ]
     },
+
     {
       "cert_id": "coursera_rutgers_supply_chain_mgmt_7az8if5epc33",
-      "title": "Supply Chain Management",
-      "credential_type": "specialization",
+
+      "status": "active",
+      "name": "Supply Chain Management",
+      "display_name": "Supply Chain Management",
       "issuer": "Rutgers University",
-      "platform": "Coursera",
       "issue_date": "2025-03-16",
-      "expiry_date": null,
+      "expiration_date": "",
+      "certification_number": "",
+      "is_active": "TRUE",
+      "show_on_resume": "TRUE",
+      "priority": 15,
+      "role_scope": "operations|supply_chain|finance",
+      "summary": "Specialization covering end-to-end supply chain concepts including sourcing, planning, operations, and logistics strategy.",
+      "relevance": 0.95,
       "verification_url": "https://coursera.org/verify/specialization/7AZ8IF5EPC33",
+
+      "source": "cert_manifest",
+      "run_id": "",
+      "updated_at": "",
+
+      "credential_type": "specialization",
+      "platform": "Coursera",
+      "expiry_date": null,
       "pdf_path": "certificates/Rutgers_Supply_Chain_Management_Specialization.pdf",
-      "source_files": [
-        "RU_Supply_Chain_Managment_Certificate (1).pdf"
-      ],
-      "tags": [
-        "supply_chain",
-        "logistics",
-        "operations",
-        "planning",
-        "sourcing",
-        "strategy"
+      "source_files": ["RU_Supply_Chain_Managment_Certificate (1).pdf"],
+      "tags": ["supply_chain", "logistics", "operations", "planning", "sourcing", "strategy"],
+      "skills": [
+        { "skill_label": "Supply Chain", "skill_keyword": "supply_chain", "role_scope": "operations|supply_chain|finance" },
+        { "skill_label": "Logistics", "skill_keyword": "logistics", "role_scope": "operations|supply_chain|finance" },
+        { "skill_label": "Operations", "skill_keyword": "operations_management", "role_scope": "operations|supply_chain|finance" },
+        { "skill_label": "Planning", "skill_keyword": "planning", "role_scope": "operations|supply_chain|finance" },
+        { "skill_label": "Sourcing", "skill_keyword": "sourcing", "role_scope": "operations|supply_chain|finance" },
+        { "skill_label": "Strategy", "skill_keyword": "strategy", "role_scope": "operations|supply_chain|finance" }
       ]
     },
+
     {
       "cert_id": "coursera_uci_intro_to_business_26p3grjurkpb",
-      "title": "Introduction to Business",
-      "credential_type": "specialization",
+
+      "status": "active",
+      "name": "Introduction to Business",
+      "display_name": "Introduction to Business",
       "issuer": "UCI Division of Continuing Education",
-      "platform": "Coursera",
       "issue_date": "2024-11-01",
-      "expiry_date": null,
+      "expiration_date": "",
+      "certification_number": "",
+      "is_active": "TRUE",
+      "show_on_resume": "TRUE",
+      "priority": 40,
+      "role_scope": "base|operations|customer_service|finance",
+      "summary": "Business foundations including management, operations, planning, and finance basics for business contexts.",
+      "relevance": 0.75,
       "verification_url": "https://coursera.org/verify/specialization/26P3GRJURKPB",
+
+      "source": "cert_manifest",
+      "run_id": "",
+      "updated_at": "",
+
+      "credential_type": "specialization",
+      "platform": "Coursera",
+      "expiry_date": null,
       "pdf_path": "certificates/Introduction_to_Business_Specialization.pdf",
-      "source_files": [
-        "Coursera 26P3GRJURKPB.pdf"
-      ],
-      "tags": [
-        "business_operations",
-        "management",
-        "strategic_planning",
-        "digital_marketing",
-        "finance"
+      "source_files": ["Coursera 26P3GRJURKPB.pdf"],
+      "tags": ["business_operations", "management", "strategic_planning", "digital_marketing", "finance"],
+      "skills": [
+        { "skill_label": "Business Operations", "skill_keyword": "business_operations", "role_scope": "base|operations|customer_service|finance" },
+        { "skill_label": "Management", "skill_keyword": "management", "role_scope": "base|operations|customer_service|finance" },
+        { "skill_label": "Strategic Planning", "skill_keyword": "strategic_planning", "role_scope": "base|operations|customer_service|finance" },
+        { "skill_label": "Finance", "skill_keyword": "finance", "role_scope": "base|operations|customer_service|finance" },
+        { "skill_label": "Digital Marketing", "skill_keyword": "digital_marketing", "role_scope": "base|operations|customer_service|finance" }
       ]
     },
+
     {
       "cert_id": "coursera_career_success_y94b8whngfwc",
-      "title": "Career Success",
-      "credential_type": "specialization",
-      "issuer": "Coursera",
-      "platform": "Coursera",
+
+      "status": "active",
+      "name": "Career Success",
+      "display_name": "Career Success",
+      "issuer": "UC Irvine (Coursera)",
       "issue_date": "2024-12-24",
-      "expiry_date": null,
+      "expiration_date": "",
+      "certification_number": "",
+      "is_active": "TRUE",
+      "show_on_resume": "TRUE",
+      "priority": 60,
+      "role_scope": "base|operations|supply_chain|customer_service|finance",
+      "summary": "Workplace readiness skills: communication, professional writing, negotiation, time management, and leadership.",
+      "relevance": 0.65,
       "verification_url": "https://coursera.org/verify/specialization/Y94B8WHNGFWC",
+
+      "source": "cert_manifest",
+      "run_id": "",
+      "updated_at": "",
+
+      "credential_type": "specialization",
+      "platform": "Coursera",
+      "expiry_date": null,
       "pdf_path": "certificates/Career_Success_Specialization.pdf",
-      "source_files": [
-        "Coursera Y94B8WHNGFWC.pdf"
-      ],
-      "tags": [
-        "project_management",
-        "time_management",
-        "finance",
-        "communication",
-        "business_writing",
-        "negotiation",
-        "problem_solving",
-        "leadership"
+      "source_files": ["Coursera Y94B8WHNGFWC.pdf"],
+      "tags": ["project_management", "time_management", "finance", "communication", "business_writing", "negotiation", "problem_solving", "leadership"],
+      "skills": [
+        { "skill_label": "Professional Communication", "skill_keyword": "professional_communication", "role_scope": "base|operations|supply_chain|customer_service|finance" },
+        { "skill_label": "Business Writing", "skill_keyword": "business_writing", "role_scope": "base|operations|supply_chain|customer_service|finance" },
+        { "skill_label": "Time Management", "skill_keyword": "time_management", "role_scope": "base|operations|supply_chain|customer_service|finance" },
+        { "skill_label": "Problem Solving", "skill_keyword": "problem_solving", "role_scope": "base|operations|supply_chain|customer_service|finance" },
+        { "skill_label": "Leadership", "skill_keyword": "leadership", "role_scope": "base|operations|supply_chain|customer_service|finance" },
+        { "skill_label": "Negotiation", "skill_keyword": "negotiation", "role_scope": "base|operations|supply_chain|customer_service|finance" }
       ]
     },
+
     {
       "cert_id": "nff_forklift_operator_nff-1725382714-2368-96083",
-      "title": "Forklift Operator Certified",
-      "credential_type": "certification",
+
+      "status": "active",
+      "name": "Forklift Operator Certified",
+      "display_name": "Forklift Operator Certified",
       "issuer": "National Forklift Foundation",
-      "platform": "National Forklift Foundation",
       "issue_date": "2024-09-03",
+      "expiration_date": "2027-09-03",
+      "certification_number": "NFF-1725382714-2368-96083",
+      "is_active": "TRUE",
+      "show_on_resume": "TRUE",
+      "priority": 30,
+      "role_scope": "operations|supply_chain",
+      "summary": "Forklift operator certification with documented issue and expiration dates.",
+      "relevance": 0.70,
+      "verification_url": "",
+
+      "source": "cert_manifest",
+      "run_id": "",
+      "updated_at": "",
+
+      "credential_type": "certification",
+      "platform": "National Forklift Foundation",
       "expiry_date": "2027-09-03",
-      "verification_url": null,
       "credential_id": "NFF-1725382714-2368-96083",
       "pdf_path": "certificates/Forklift_Operator_Certified_NFF.pdf",
       "source_files": [
         "skirby323-Forklift-Operator-Certification-Forklift-Operator-Official-Certification-National-Forklift-Foundation.pdf"
       ],
-      "tags": [
-        "forklift",
-        "osha",
-        "warehouse",
-        "safety",
-        "operations"
+      "tags": ["forklift", "osha", "warehouse", "safety", "operations"],
+      "skills": [
+        { "skill_label": "Warehouse Operations", "skill_keyword": "warehouse_operations", "role_scope": "operations|supply_chain" },
+        { "skill_label": "Safety Compliance", "skill_keyword": "safety_compliance", "role_scope": "operations|supply_chain" },
+        { "skill_label": "Equipment Operation", "skill_keyword": "equipment_operation", "role_scope": "operations|supply_chain" },
+        { "skill_label": "Material Handling", "skill_keyword": "material_handling", "role_scope": "operations|supply_chain" }
       ]
     }
   ]
