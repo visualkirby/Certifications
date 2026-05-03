@@ -6,15 +6,15 @@ This repository contains my professional certificates and credentials (PDFs), wi
 
 > Tip: PDFs are stored in `certificates/`. Click a badge to open the certificate PDF.
 
-[![Google Data Analytics](https://img.shields.io/badge/📊%20Google%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/visualkirby/Certifications/blob/main/Google_Data_Analytics_Professional_Certificate.pdf)
+[![Google Data Analytics](https://img.shields.io/badge/📊_Google_Data_Analytics-4285F4)](https://github.com/visualkirby/Certifications/blob/main/Google_Data_Analytics_Professional_Certificate.pdf)
 
-[![Supply Chain Management](https://img.shields.io/badge/📦%20Supply%20Chain%20Management-CC0000?style=for-the-badge&logo=rutgers&logoColor=white)](https://github.com/visualkirby/Certifications/blob/main/Rutgers_Supply_Chain_Management_Specialization.pdf)
+[![Supply Chain Management](https://img.shields.io/badge/📦_Supply_Chain_Management-CC0000)](https://github.com/visualkirby/Certifications/blob/main/Rutgers_Supply_Chain_Management_Specialization.pdf)
 
-[![Introduction to Business](https://img.shields.io/badge/🏢%20Introduction%20to%20Business-005EB8?style=for-the-badge&logo=coursera&logoColor=white)](https://github.com/visualkirby/Certifications/blob/main/Introduction_to_Business_Specialization.pdf)
+[![Introduction to Business](https://img.shields.io/badge/🏢_Introduction_to_Business-005EB8)](https://github.com/visualkirby/Certifications/blob/main/Introduction_to_Business_Specialization.pdf)
 
-[![Career Success](https://img.shields.io/badge/🧠%20Career%20Success-005EB8?style=for-the-badge&logo=coursera&logoColor=white)](https://github.com/visualkirby/Certifications/blob/main/Career_Success_Specialization.pdf)
+[![Career Success](https://img.shields.io/badge/🧠_Career_Success-005EB8)](https://github.com/visualkirby/Certifications/blob/main/Career_Success_Specialization.pdf)
 
-[![Forklift Operator](https://img.shields.io/badge/🏗️%20Forklift%20Operator-111827?style=for-the-badge&logo=protonmail&logoColor=white)](https://github.com/visualkirby/Certifications/blob/main/Forklift_Operator_Certified_NFF.pdf)
+[![Forklift Operator](https://img.shields.io/badge/🏗️_Forklift_Operator-111827)](https://github.com/visualkirby/Certifications/blob/main/Forklift_Operator_Certified_NFF.pdf)
 
 ---
 
@@ -30,7 +30,13 @@ This repository contains my professional certificates and credentials (PDFs), wi
 
 ---
 
-## 👤 Owner
+## Author
 
-**Sawandi Kirby**  
-GitHub: **visualkirby**
+**Sawandi Kirby**
+
+Data Analytics & Business Intelligence  
+Benchline Analytics — Freelance data consultancy focused on K-12 schools and medical practices.
+
+- GitHub: https://github.com/visualkirby
+- LinkedIn: https://linkedin.com/in/sawandi-kirby
+- Kaggle: https://kaggle.com/sawandikirby
