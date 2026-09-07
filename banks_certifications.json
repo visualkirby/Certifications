@@ -246,10 +246,13 @@
       "source_files": [],
       "tags": ["salesforce", "reports", "report_types", "data_quality", "agentforce", "crm"],
       "skills": [
+        { "skill_label": "Salesforce", "skill_keyword": "salesforce", "role_scope": "base|operations|customer_service|finance" },
         { "skill_label": "Salesforce Reports", "skill_keyword": "salesforce_reports", "role_scope": "base|operations|customer_service|finance" },
-        { "skill_label": "Report Folders and Access", "skill_keyword": "report_folders_and_access", "role_scope": "base|operations|customer_service|finance" },
-        { "skill_label": "Matrix and Joined Reports", "skill_keyword": "matrix_and_joined_reports", "role_scope": "base|operations|customer_service|finance" },
+        { "skill_label": "Report Types", "skill_keyword": "report_types", "role_scope": "base|operations|customer_service|finance" },
+        { "skill_label": "Matrix Reports", "skill_keyword": "matrix_reports", "role_scope": "base|operations|customer_service|finance" },
+        { "skill_label": "Joined Reports", "skill_keyword": "joined_reports", "role_scope": "base|operations|customer_service|finance" },
         { "skill_label": "Report Charts", "skill_keyword": "report_charts", "role_scope": "base|operations|customer_service|finance" },
+        { "skill_label": "Report Folder Access", "skill_keyword": "report_folder_access", "role_scope": "base|operations|customer_service|finance" },
         { "skill_label": "Data Quality Reporting", "skill_keyword": "data_quality_reporting", "role_scope": "base|operations|customer_service|finance" }
       ]
     },
@@ -284,11 +287,14 @@
       "source_files": [],
       "tags": ["salesforce", "dashboards", "lightning_dashboard_builder", "data_visualization", "agentforce", "crm"],
       "skills": [
+        { "skill_label": "Salesforce", "skill_keyword": "salesforce", "role_scope": "base|operations|customer_service|finance" },
         { "skill_label": "Salesforce Dashboards", "skill_keyword": "salesforce_dashboards", "role_scope": "base|operations|customer_service|finance" },
         { "skill_label": "Lightning Dashboard Builder", "skill_keyword": "lightning_dashboard_builder", "role_scope": "base|operations|customer_service|finance" },
         { "skill_label": "Dashboard Component Types", "skill_keyword": "dashboard_component_types", "role_scope": "base|operations|customer_service|finance" },
-        { "skill_label": "Dashboard Sharing and Access", "skill_keyword": "dashboard_sharing_and_access", "role_scope": "base|operations|customer_service|finance" },
-        { "skill_label": "Data Visualization", "skill_keyword": "data_visualization", "role_scope": "base|operations|customer_service|finance" }
+        { "skill_label": "Dashboard Folder Sharing", "skill_keyword": "dashboard_folder_sharing", "role_scope": "base|operations|customer_service|finance" },
+        { "skill_label": "Dashboard Access Controls", "skill_keyword": "dashboard_access_controls", "role_scope": "base|operations|customer_service|finance" },
+        { "skill_label": "Data Visualization", "skill_keyword": "data_visualization", "role_scope": "base|operations|customer_service|finance" },
+        { "skill_label": "Data Quality Analysis", "skill_keyword": "data_quality_analysis", "role_scope": "base|operations|customer_service|finance" }
       ]
     }
   ]
