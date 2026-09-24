@@ -26,7 +26,7 @@ This repository holds my professional certificates and credentials, with quick-a
 
 | Certificate | Issuer / Platform | Issued | Expires | Verify |
 |---|---|---:|---:|---|
-| Google Data Analytics (Professional Certificate) | Google · Coursera | 2023-12-28 | N/A | https://coursera.org/verify/professional-cert/XN9RSCLFQ7HS |
+| Google Data Analytics (Professional Certificate) | Google · Coursera | 2023-12-28 | N/A | https://coursera.org/verify/professional-cert/XN9RSCLFQ7HS<br>Credly: https://www.credly.com/badges/cd12914f-430f-445d-a614-6455bf52ecfb/public_url |
 | Supply Chain Management (Specialization) | Rutgers University · Coursera | 2025-03-16 | N/A | https://coursera.org/verify/specialization/7AZ8IF5EPC33 |
 | Introduction to Business (Specialization) | UCI Division of Continuing Education · Coursera | 2024-11-01 | N/A | https://coursera.org/verify/specialization/26P3GRJURKPB |
 | Career Success (Specialization) | UC Irvine · Coursera | 2024-12-24 | N/A | https://coursera.org/verify/specialization/Y94B8WHNGFWC |
